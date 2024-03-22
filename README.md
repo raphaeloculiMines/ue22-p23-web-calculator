@@ -1,3 +1,4 @@
+Raphaël Oculi
 # ue22-p23-web-calculator
 
 This assignement was given during ue22-p23 web course at Les Mines de Paris in 2024, (https://ue22-p23-web.readthedocs.io/) Licence CC BY-NC-ND Thierry Parmentelat.
